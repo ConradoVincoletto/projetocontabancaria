@@ -1,0 +1,14 @@
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\bin\Debug\netcoreapp3.1\ConversorDolar.exe
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\bin\Debug\netcoreapp3.1\ConversorDolar.deps.json
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\bin\Debug\netcoreapp3.1\ConversorDolar.runtimeconfig.json
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\bin\Debug\netcoreapp3.1\ConversorDolar.runtimeconfig.dev.json
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\bin\Debug\netcoreapp3.1\ConversorDolar.dll
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\bin\Debug\netcoreapp3.1\ConversorDolar.pdb
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\obj\Debug\netcoreapp3.1\ConversorDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\obj\Debug\netcoreapp3.1\ConversorDolar.AssemblyInfoInputs.cache
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\obj\Debug\netcoreapp3.1\ConversorDolar.AssemblyInfo.cs
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\obj\Debug\netcoreapp3.1\ConversorDolar.csproj.CoreCompileInputs.cache
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\obj\Debug\netcoreapp3.1\ConversorDolar.dll
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\obj\Debug\netcoreapp3.1\ConversorDolar.pdb
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\obj\Debug\netcoreapp3.1\ConversorDolar.genruntimeconfig.cache
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\obj\Debug\netcoreapp3.1\ConversorDolar.csproj.AssemblyReference.cache

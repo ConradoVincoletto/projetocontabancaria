@@ -1,0 +1,14 @@
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\bin\Debug\netcoreapp3.1\Course.exe
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\bin\Debug\netcoreapp3.1\Course.deps.json
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\bin\Debug\netcoreapp3.1\Course.dll
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\bin\Debug\netcoreapp3.1\Course.pdb
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\obj\Debug\netcoreapp3.1\Course.csproj.AssemblyReference.cache
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\obj\Debug\netcoreapp3.1\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\obj\Debug\netcoreapp3.1\Course.dll
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\obj\Debug\netcoreapp3.1\Course.pdb
+C:\Users\conra\OneDrive\Documentos\Curso C# Programa Orientação a Objetos + Projetos Udemy\Primeiro\Primeiro Projeto\ConversorDolar\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache
